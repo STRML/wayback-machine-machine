@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/STRML/wayback-machine-machine/issues"
   },
-  "homepage": "https://github.com/STRML/wayback-machine-machine"
+  "homepage": "https://github.com/STRML/wayback-machine-machine",
+  "dependencies": {
+    "request": "~2.34.0",
+    "yargs": "~1.2.1",
+    "express": "^4.0.0",
+    "cookie-parser": "^1.0.1"
+  }
 }
