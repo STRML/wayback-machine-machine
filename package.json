@@ -1,0 +1,27 @@
+{
+  "name": "wayback-machine-machine",
+  "version": "0.0.0",
+  "description": "A proxy server that takes you back... to the past!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/STRML/wayback-machine-machine"
+  },
+  "keywords": [
+    "DHTML",
+    "Netscape",
+    "IE6",
+    "Wayback",
+    "Archive",
+    "Nostalgia"
+  ],
+  "author": "Samuel Reed <sam@tixelated.com> (http://strml.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STRML/wayback-machine-machine/issues"
+  },
+  "homepage": "https://github.com/STRML/wayback-machine-machine"
+}
