@@ -1,13 +1,13 @@
 'use strict';
 var args = require('yargs')
   .usage('Teleport your browser back in time.\nUsage: $0 [date] --port [num] --debug')
-  .example('$0 2006-03-01', 'View the web as if it were March 1st, 2006')
+  .example('$0 --date 2006-03-01', 'View the web as if it were March 1st, 2006')
   .default('port', '4080')
-  .demand(1)
+  .default('date', '2006-03-01')
   .argv;
 
 // Get options
-var date = args._[0];
+var date = args.date;
 var port = args.port;
 var log = require('./lib/log').init(args.debug).log;
 

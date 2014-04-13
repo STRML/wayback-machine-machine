@@ -1,7 +1,16 @@
 Wayback-Machine-Machine
 =======================
 
-Go back in time.
+What
+----
+
+Go back in time. The wayback-machine-machine is a proxy server that proxies data through
+the [Wayback Machine](https://archive.org/help/wayback_api.php). 
+
+You can enter any URL you like into your browser and view the Internet
+as though it were a different year.
+
+![cnn.png](cnn.png)
 
 Usage
 -----
