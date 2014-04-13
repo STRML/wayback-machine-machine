@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "A proxy server that takes you back... to the past!",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "github.com/STRML/wayback-machine-machine"
@@ -28,6 +25,8 @@
     "request": "~2.34.0",
     "yargs": "~1.2.1",
     "express": "~4.0.0",
-    "cookie-parser": "~1.0.1"
+    "cookie-parser": "~1.0.1",
+    "msee": "~0.1.1",
+    "ascli": "~0.3.0"
   }
 }
