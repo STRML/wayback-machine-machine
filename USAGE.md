@@ -47,7 +47,7 @@ Notes
 -----
 
 If you liked this project and have feedback or bugs to report,
-please contact me at sam@tixelated.com or on GitHub at
+please contact me on GitHub at
 **github.com/STRML/wayback-machine-machine**
 
 The proxy server is now running. Press CTRL-C to exit.
